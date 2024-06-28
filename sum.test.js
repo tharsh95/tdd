@@ -12,4 +12,7 @@ test("Adds two strings separated with a new line", () => {
 test("Passed one argument", () => {
   expect(sum("")).toBe(0);
 });
+test("Passed Empty string", () => {
+  expect(sum("")).toBe(0);
+});
 
