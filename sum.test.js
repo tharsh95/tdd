@@ -18,10 +18,6 @@ test("Handle mutliple elements", () => {
 test("Handle delimiter", () => {
   expect(sum( "//;\n1;2")).toBe(3);
 });
-// test("Handle negative elements", () => {
-//        expect(sum("1","2","-8")).toBe()
- 
-// });
 
 test("Handle negative elements", () => {
   try {

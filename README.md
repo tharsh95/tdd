@@ -1,1 +1,1 @@
-## Clone the repo and run npm test to start no need of npm i
+## Clone the repo and run npm test to test no need of npm i
