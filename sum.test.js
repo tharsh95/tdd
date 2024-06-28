@@ -6,3 +6,6 @@ test("Adds two numbers", () => {
 test("Adds two strings", () => {
   expect(sum("1", "2")).toBe(3);
 });
+test("Adds two strings separated with a new line", () => {
+  expect(sum("1", "2")).toBe(3);
+});
